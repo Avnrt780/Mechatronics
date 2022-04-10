@@ -1,4 +1,4 @@
-# Mechatronics
+# Mechatronics:- PICK AND PLACE ROBOTIC ARM : Involves the application of ARDUINO, Color Detecting Sensor and Motors.
 Term project: During the course of Mechatronics laboratory in spring semester 2022, Mechanical systems design , M.Tech , IIT Kharagpur.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ABSTRACT: 
