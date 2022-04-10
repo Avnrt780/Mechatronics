@@ -9,8 +9,8 @@ The mechanism starts with the user, specifying the input in terms of which colou
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 FLOW DIAGRAM:
 !![image](https://user-images.githubusercontent.com/86163226/162606784-e83e7d96-bde6-4e42-aa31-d68b23e3f427.png)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[DEMONSTRATION VIDEO:] (https://www.youtube.com/watch?v=Mo6bAmHys4M)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[DEMONSTRATION VIDEO: (https://www.youtube.com/watch?v=Mo6bAmHys4M)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OUTCOMES OF THE PROJECT:
   Acquainted with the Arduino and other electronic components.	
@@ -24,3 +24,4 @@ OUTCOMES OF THE PROJECT:
           •	Planning and implementations of projects
           •	Modelling and design using usual DIY components.
           •	Making an alternative plan in case of unforeseen situations.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
