@@ -15,13 +15,13 @@ FLOW DIAGRAM:
 OUTCOMES OF THE PROJECT:<br />
   &nbsp; Acquainted with the Arduino and other electronic components.	<br />
   &nbsp; Understood the working principles and controlling the functions of,<br />
-          •	TCS 3200 colour detecting sensor<br />
-          •	Stepper motor<br />
-          •	Servo motor<br />
+            •	TCS 3200 colour detecting sensor<br />
+            •	Stepper motor<br />
+            •	Servo motor<br />
   &nbsp; Understood the essence of <br />
-          •	Team work<br />
-          •	Collaborative tasks<br />
-          •	Planning and implementations of projects<br />
-          •	Modelling and design using usual DIY components.<br />
-          •	Making an alternative plan in case of unforeseen situations.<br />
+            •	Team work<br />
+            •	Collaborative tasks<br />
+            •	Planning and implementations of projects<br />
+            •	Modelling and design using usual DIY components.<br />
+            •	Making an alternative plan in case of unforeseen situations.<br />
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
