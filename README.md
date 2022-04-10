@@ -10,7 +10,9 @@ WORKING PRINCIPLE:
 FLOW DIAGRAM:
 !![image](https://user-images.githubusercontent.com/86163226/162606784-e83e7d96-bde6-4e42-aa31-d68b23e3f427.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-DEMONSTRATION VIDEO: (https://www.youtube.com/watch?v=Mo6bAmHys4M)
+DEMONSTRATION VIDEO: https://www.youtube.com/watch?v=Mo6bAmHys4M
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ARDUINO IDE CODE:  https://github.com/Avnrt780/Mechatronics/blob/main/pick_and_place_robotic_arm_code.ino
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OUTCOMES OF THE PROJECT:<br />
   &nbsp; Acquainted with the Arduino and other electronic components.	<br />
